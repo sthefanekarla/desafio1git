@@ -46,9 +46,9 @@ Hoje, nós replicamos esse sistema nos famosos quadros com post-its, ou em plata
 
 #### **A ferramenta consiste em um quadro de gestão de tarefas dividido em três colunas:**
 
-- Na da esquerda, devem ser registradas as tarefas pendentes.
-- Na do meio, as que estão em andamento.
-- Na da direita, as que estão concluídas.
+- Na da esquerda, devem ser registradas as tarefas pendentes
+- Na do meio, as que estão em andamento
+- Na da direita, as que estão concluídas
 
 Desse modo, os gestores conseguem priorizar o que é mais importante e os colaboradores não ficam sobrecarregados, pois fica claro o limite de tarefas para cada um e os prazos acordados.
 
@@ -70,6 +70,32 @@ O método também pode ser combinado ao Scrum e Kanban, por exemplo, formando um
 
 #### **A ferramenta é composta por três passos principais:**
 
-- Construir.
-- Medir.
-- Aprender.
+- Construir
+- Medir
+- Aprender
+
+---
+## 📎**Vantagens de Implementar essas Metodologias Ágeis:**
+
+- As entregas são mais rápidas
+- Métodos ágeis deixam o software mais flexível
+- A boa qualidade do software
+- Proximidade entre os stakeholders
+- Gerenciamento de riscos e métodos ágeis
+
+---
+## 📎**Equipes envolvidas no Projeto:**
+
+- Full-stack
+- Front-end 
+- Back-end
+
+---
+## **Autor:** Sthéfane Karla Dutra Ribeiro
+## **Disciplina:** Versionamento de Código com Git
+
+<h1 align="center">
+    <img src="https://www.senairs.org.br/sites/default/files/styles/scale_sm/public/logos/logos_senai_preto.png?itok=7T8jnVVt">
+</h1>
+
+---
