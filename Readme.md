@@ -51,3 +51,25 @@ Hoje, nós replicamos esse sistema nos famosos quadros com post-its, ou em plata
 - Na da direita, as que estão concluídas.
 
 Desse modo, os gestores conseguem priorizar o que é mais importante e os colaboradores não ficam sobrecarregados, pois fica claro o limite de tarefas para cada um e os prazos acordados.
+
+---
+
+<h1 align="center">
+    <img src="https://ik.imagekit.io/jcvxup8w8/Scrum__3__Lv3dcOvPY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663733389742">
+</h1>
+
+A metodologia lean vem do conceito de Lean Manufacturing (Manufatura Enxuta), originário do Sistema Toyota de Produção. Essa filosofia de gestão foi criada após a Segunda Guerra Mundial e tinha como objetivo reduzir os desperdícios de tempo, dinheiro e recursos na indústria. 
+
+Ele foi pensado inicialmente para um cenário industrial, mas sua aplicação no meio corporativo e tecnológico se mostrou bem-sucedida.
+
+Basicamente, o propósito é gerenciar o negócio de forma mais rápida, mais barata e melhor, alocando somente os recursos necessários para cada projeto e ciclo iterativo.
+
+Para isso, a metodologia lean abrange ferramentas como o Business Canvas Model, Growth hacking e Customer Development, que simplificam e agilizam as estratégias do negócio.
+
+O método também pode ser combinado ao Scrum e Kanban, por exemplo, formando um kit completo para uma gestão inovadora.
+
+#### **A ferramenta é composta por três passos principais:**
+
+- Construir.
+- Medir.
+- Aprender.
